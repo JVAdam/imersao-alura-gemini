@@ -1,4 +1,4 @@
-## **Aplicação sobre Baleias**
+## **Aplicação sobre Baleias - Imersão Dev com Google Gemini**
 
 ###  **Sobre a Aplicação**
 
